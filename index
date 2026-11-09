@@ -291,6 +291,8 @@
   .obbar{display:flex;justify-content:flex-end;margin:-4px 0 10px}
   @media (max-width:640px){.tb{margin-left:0}.tx{grid-template-columns:1fr}}
 </style>
+</head>
+<body>
 
 
 
@@ -830,6 +832,5 @@ simIPTU(); simITBI(); simTaxa();
   lista();
 })();
 </script>
-
-
+</body>
 </html>
